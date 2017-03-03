@@ -1,119 +1,119 @@
 language.code=tr-TR
 language=Türkçe
 //TODO Translate [Reference] 'Achievement unlocked: {0-achievement}!'
-achievements.achievementUnlocked=
+achievements.achievementUnlocked= Başarım Kazanıldı :
 //TODO Translate [Reference] 'Buy:'
-catalogue.buy=
+catalogue.buy= Satın Al :
 //TODO Translate [Reference] 'Clear'
-catalogue.clear=
+catalogue.clear= Temizle
 //TODO Translate [Reference] 'Not enough money!'
-catalogue.notEnoughMoney=
+catalogue.notEnoughMoney= Yeterli paran yok!
 //TODO Translate [Reference] 'This item cannot be sold!'
-catalogue.notSellable=
+catalogue.notSellable= Bu eşya satılamaz!
 //TODO Translate [Reference] 'Sell'
-catalogue.performSale=
+catalogue.performSale= Sat
 //TODO Translate [Reference] 'Sell:'
-catalogue.sell=
+catalogue.sell= Sat:
 //TODO Translate [Reference] 'Total'
-catalogue.total=
+catalogue.total= Toplam
 //TODO Translate [Reference] 'Accept'
-characterDesigner.accept=
+characterDesigner.accept= Kabul Et
 //TODO Translate [Reference] 'Accessories'
-characterDesigner.accessories=
+characterDesigner.accessories= Aksesuarlar
 //TODO Translate [Reference] 'Cancel'
-characterDesigner.cancel=
+characterDesigner.cancel= İptal
 //TODO Translate [Reference] 'Close'
-characterDesigner.close=
+characterDesigner.close= Kapat
 //TODO Translate [Reference] 'Eyes'
-characterDesigner.eyes=
+characterDesigner.eyes= Gözler
 //TODO Translate [Reference] 'Gender'
-characterDesigner.gender=
+characterDesigner.gender= Cinsiyet
 //TODO Translate [Reference] 'Hair'
-characterDesigner.hair=
+characterDesigner.hair= Saç
 //TODO Translate [Reference] 'Hat'
-characterDesigner.hat=
+characterDesigner.hat= Şapka
 //TODO Translate [Reference] 'Make yourself pretty and stuff'
-characterDesigner.info=
+characterDesigner.info= Kendini özelleştir.
 //TODO Translate [Reference] 'Name'
-characterDesigner.name=
+characterDesigner.name= İsim
 //TODO Translate [Reference] 'Next'
-characterDesigner.next=
+characterDesigner.next= Sonraki
 //TODO Translate [Reference] 'None'
-characterDesigner.none=
+characterDesigner.none= Hiçbir şey
 //TODO Translate [Reference] 'Personality'
-characterDesigner.personality=
+characterDesigner.personality= Kişilik
 //TODO Translate [Reference] 'Presets'
-characterDesigner.presets=
+characterDesigner.presets= Ön Ayarlar
 //TODO Translate [Reference] 'Random'
-characterDesigner.random=
+characterDesigner.random= Rastgele
 //TODO Translate [Reference] 'Shirt'
-characterDesigner.shirt=
+characterDesigner.shirt= Gömlek
 //TODO Translate [Reference] 'Shoes'
-characterDesigner.shoes=
+characterDesigner.shoes= Ayakkabı
 //TODO Translate [Reference] 'Skin'
-characterDesigner.skinColour=
+characterDesigner.skinColour= Cilt
 //TODO Translate [Reference] 'Species'
-characterDesigner.species=
+characterDesigner.species= Tür
 //TODO Translate [Reference] 'Dress'
-characterDesigner.subcategory.dress=
+characterDesigner.subcategory.dress= Elbise
 //TODO Translate [Reference] 'Glasses'
-characterDesigner.subcategory.glasses=
+characterDesigner.subcategory.glasses= Gözlük
 //TODO Translate [Reference] 'Hat'
-characterDesigner.subcategory.hat=
+characterDesigner.subcategory.hat= Şapka
 //TODO Translate [Reference] 'Hi-Tops'
-characterDesigner.subcategory.hitops=
+characterDesigner.subcategory.hitops= Bağcıklı Ayakkabı
 //TODO Translate [Reference] 'Hoodie'
-characterDesigner.subcategory.hoodie=
+characterDesigner.subcategory.hoodie= Kapşon
 //TODO Translate [Reference] 'Jeans'
-characterDesigner.subcategory.jeans=
+characterDesigner.subcategory.jeans= Kot Pantolon
 //TODO Translate [Reference] 'Long'
-characterDesigner.subcategory.long=
+characterDesigner.subcategory.long= Uzun
 //TODO Translate [Reference] 'Longsleeve'
-characterDesigner.subcategory.longsleeve=
+characterDesigner.subcategory.longsleeve= Uzun Kollu
 //TODO Translate [Reference] 'Medium'
-characterDesigner.subcategory.medium=
+characterDesigner.subcategory.medium= Ora
 //TODO Translate [Reference] 'Sandals'
-characterDesigner.subcategory.sandals=
+characterDesigner.subcategory.sandals= Sandaletler
 //TODO Translate [Reference] 'Short'
-characterDesigner.subcategory.short=
+characterDesigner.subcategory.short= Kısa
 //TODO Translate [Reference] 'Shorts'
-characterDesigner.subcategory.shorts=
+characterDesigner.subcategory.shorts= Şortlar
 //TODO Translate [Reference] 'Straptop'
-characterDesigner.subcategory.straptop=
+characterDesigner.subcategory.straptop= Bluz
 //TODO Translate [Reference] 'Trainers'
-characterDesigner.subcategory.trainers=
+characterDesigner.subcategory.trainers= Spor Ayakkabısı
 //TODO Translate [Reference] 'T-Shirt'
-characterDesigner.subcategory.tshirt=
+characterDesigner.subcategory.tshirt= Tişört
 //TODO Translate [Reference] 'Vest'
-characterDesigner.subcategory.vest=
+characterDesigner.subcategory.vest= Yelek
 //TODO Translate [Reference] 'Character Creation'
-characterDesigner.title=
+characterDesigner.title= Karakter Tasarlama
 //TODO Translate [Reference] 'Bottoms'
-characterDesigner.trousers=
+characterDesigner.trousers= Pantalon
 //TODO Translate [Reference] 'advanceTime amount(0.0-1.0)'
-commands.advanceTime.description=
-//TODO Translate [Reference] 'Enter a float by which to advance time. 1.0 is a full day'
-commands.advanceTime.enterFloat=
+commands.advanceTime.description= Süreyi (0.0-1.0) kadar ilerlet.
+//TODO Translate [Reference] 'Zamanı İlerlet. 1.0 tam bir gündür'
+commands.advanceTime.enterFloat= Zamanı İlerlet. 1.0 tam bir gündür.
 //TODO Translate [Reference] 'failed: arg(1) must be a number. Floating points OK'
-commands.advanceTime.mustBeNumber=
+commands.advanceTime.mustBeNumber= başarısız: arg(1) bir numara olmalı.
 //TODO Translate [Reference] 'Advancing time by {0-time}...'
-commands.advanceTime.success=
+commands.advanceTime.success= Zamanı {0-time} kadar ilerletiyor...
 //TODO Translate [Reference] 'ban playerName (optional)reason'
-commands.ban.description=
+commands.ban.description= playerName 'i yasakla
 //TODO Translate [Reference] 'Unable to ban {0-player}: player is an admin or already banned.'
-commands.ban.failure=
+commands.ban.failure= {0-player} yasaklanamıyor: oyuncu bir admin veya çoktan yasaklanmış.
 //TODO Translate [Reference] '{0-player} has been banned from the server.'
-commands.ban.success=
+commands.ban.success= {0-player} sunucudan yasaklandı.
 //TODO Translate [Reference] 'bla'
-commands.bla.description=
+commands.bla.description= bla
 //TODO Translate [Reference] 'Moved to a new location in debug region: {0-region}'
-commands.bla.success=
+commands.bla.success= {0-region} bölgesinde yeni bir yere hareket edildi.
 //TODO Translate [Reference] 'cameraCapture'
-commands.cameraCapture.description=
+commands.cameraCapture.description= Bakış açısı yakala
 //TODO Translate [Reference] 'Captured player camera'
-commands.cameraCapture.success=
+commands.cameraCapture.success= Bakış açısı yakalandı
 //TODO Translate [Reference] 'cameraCapture savedCameraFilePath'
-commands.cameraLoad.description=
+commands.cameraLoad.description= WIP
 //TODO Translate [Reference] 'Loaded player camera from file: {0-filename}'
 commands.cameraLoad.success=
 //TODO Translate [Reference] 'cameraPlay (optional)duration(0.0-1.0) (optional)loop(true/false) (optional)savedCameraFilePath'
